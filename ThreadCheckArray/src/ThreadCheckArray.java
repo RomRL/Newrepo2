@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * @author Rom Harel
+ * @author Rom Harel Noy Biton
  * Manage The Thread's with synchronized block
  *
  */
